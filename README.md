@@ -1,9 +1,11 @@
-# template
+# Как запустить?
+Скачать репозиторий.
+# Установка зависимостей: 
 ```
 pip install -r requirements.txt
 ```
 
 # Запуск
 ```bash
-streamlit run "Стартовая страница.py"
+cd final && streamlit run "Стартовая страница.py"
 ```
