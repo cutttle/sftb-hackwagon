@@ -1,6 +1,7 @@
 # Как запустить?
 Скачать репозиторий.
-<img src="https://git.codenrock.com/hackwagon22/cnrprod-team-26942/gifts-first-class/-/blob/main/2022-12-18-17-13-03.gif?raw=true">
+![Alt Text](2022-12-18-17-13-03.gif)
+
 
 # Установка зависимостей: 
 ```
